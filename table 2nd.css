@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+   
+}
+table{
+    border: 2px solid black;
+    width: 60%;
+
+}   
+th{
+    border: 1px solid black;
+}
+.m1{
+    background-color: rgb(229, 72, 198);
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+}
